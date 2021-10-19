@@ -24,5 +24,6 @@
 [<img aling:"left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://code.visualstudio.com/)
 
 [<img aling:"left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://code.visualstudio.com/)
+[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlgync&show_icons=true&theme=radical)
