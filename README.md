@@ -40,12 +40,12 @@
 
 ![snake svg](https://github.com/tlgync/tlgync/blob/output/github-contribution-grid-snake.svg)
 
-<br>
+<hr/>
 
 ## I'm React/ReactNative Developer
 - I'm currently learning everything
 - I'm mostly interested in javascript.
-<br>
+
 ### Language and Tools:
 
 <br>
