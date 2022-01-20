@@ -25,9 +25,7 @@
 <a href="https://github.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tlgync&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlgnyc&layout=compact&theme=radical" />
-</a>
+
 </div>
 
 <br>
