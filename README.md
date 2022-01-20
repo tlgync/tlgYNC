@@ -16,16 +16,16 @@
     </a>
   </div>
 
-
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tlgync&theme=radical&date_format=j%20M%5B%20Y%5D" />
-</a>
-<a href="https://github.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tlgync&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlgnyc&layout=compact&theme=radical" />
-</a>
+  <div>
+    <a href="https://git.io/streak-stats">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?  user=mervekrblt&theme=radical&date_format=j%20M%5B%20Y%5D" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mervekrblt&show_icons=true&theme=radical" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervekrblt&layout=compact&theme=radical" />
+    </a>
 </div>
 
 <br>
