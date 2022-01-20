@@ -1,5 +1,9 @@
 ### Hi there, I'm Tolga-Yonca
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+everyone;I+am+Tolga+Yonca;Front+End+Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
+</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlgync&show_icons=true&theme=radical)
 ## I'm React/ReactNative Developer
 - I'm currently learning everything
