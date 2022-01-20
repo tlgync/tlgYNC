@@ -20,13 +20,13 @@
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tlgync&show_icons=true&theme=radical" />
 </div>
-<a href="https://git.io/streak-stats">
+<a href="https://github.com/tlgync">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tlgync&theme=radical&date_format=j%20M%5B%20Y%5D" />
 </a>
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tlgync&show_icons=true&theme=radical" />
 </a> -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/tlgync">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlgync&layout=compact&theme=radical" />
 </a>
 </div>
