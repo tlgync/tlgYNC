@@ -1,7 +1,7 @@
-### Hi there, I'm Tolga-Yonca
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+Everyone...;I+am+Tolga+Yonca;Frontend+Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there...;I+am+Tolga+Yonca;Frontend+Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
 </p>
 
 <br>
