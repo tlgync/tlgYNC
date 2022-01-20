@@ -8,14 +8,13 @@
 
 <div align="center">
   <div align="center">
-<a href="https://github.com/tlgync/github-profile-views-counter">
+    <a href="https://github.com/tlgync/github-profile-views-counter">
     <img align="center" src="https://komarev.com/ghpvc/?username=tlgync&color=f75c7e">
-</a>
-<a href="https://github.com/tlgync?tab=followers">
-    <img align="center"  src="https://img.shields.io/github/followers/tlgync?style=flat-square&color=f75c7e">
-</a>
+    </a>
+    <a href="https://github.com/tlgync?tab=followers">
+        <img align="center"  src="https://img.shields.io/github/followers/tlgync?style=flat-square&color=f75c7e">
+    </a>
   </div>
-
 <div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlgync&show_icons=true&theme=radical)
